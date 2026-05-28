@@ -14,7 +14,7 @@ provider "aws" {
 
 
 module "networking" {
-  source = "git::https://github.com/lesepulvedav/tarea_terra_networking.git?ref=v0.2.1"
+  source = "git::https://github.com/lesepulvedav/tarea_terra_networking.git?ref=v0.1.1"
   
 }
 
